@@ -1,0 +1,19 @@
+/* === Override for Bootstrap default styles === */
+
+.help-block{
+	margin-top: -5px; 
+	color: #999; 
+	font-size:12px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 0px 10px 0 0;
+
+}
+.actionButtons{
+	margin-top: 40px;	
+}
+body{
+	padding-bottom: 60px; 	
+}
